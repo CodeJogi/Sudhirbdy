@@ -4,7 +4,42 @@
 }
 #s1{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    background-color: aqua;
+    align-items: center;
+    background-color:burlywood;
+    border: 10px;
+    box-sizing: border-box;
+    overflow: scroll;
+    border-radius: 5%;
+    margin-bottom: 30px;
+
+}
+#s2{
+
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    align-items: center;
+    background-color:greenyellow;
+    border: 10px;
+    box-sizing: border-box;
+    overflow: scroll;
+    border-radius: 5%;
+    margin-bottom: 30px;
+
+}
+#s3{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color:red;
+    border: 10px;
+    box-sizing: border-box;
+    height: 300px;
+    border-radius: 5%;
+    margin-bottom: 30px;
 
 }

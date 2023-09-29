@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#v{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-around;
+    align-items: center;
+    box-sizing: border-box;
+    background-color:pink;
+    border-radius: 5%;
+    overflow:scroll;
+    border-width: 10px;
+    margin-bottom: 20px;
+    border-style:double;
+
+}

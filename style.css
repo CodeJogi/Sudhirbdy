@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#a{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    box-sizing: border-box;
+    background-color: aqua;
+    border-radius: 20%;
+    height: 300px;
+    overflow: hidden;
+    border-width: 20px;
+    margin-bottom: 20px;
+   // border-style:double;
+
+}
+#a1
+{
+    flex: 2;
+}
+#a2
+{
+    flex: 1;
+}
+#b
+{
+    font-size:larger;
+    font-family: monospace;
+    text-shadow: 10px 10px 10px red;
+    text-align: center;
+    font-weight: 900;
+    
+}
+#c{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: aqua;
+    border-radius: 10%;
+    height: 300px;
+    overflow: hidden;
+    border-width: 10px;
+    margin-bottom: 20px;
+    border-style:double;
+
+}
+#d{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: plum;
+    border-radius: 40%;
+    overflow: hidden;
+    border-width: 10px;
+    margin-bottom: 20px;
+    height: 200px;
+
+}

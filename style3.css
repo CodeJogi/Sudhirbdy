@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#k{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-around;
+    align-items: center;
+    box-sizing: border-box;
+    background-color:grey;
+    border-radius: 5%;
+    overflow:scroll;
+    border-width: 20px;
+    margin-bottom: 20px;
+
+}
+#h{
+    text-align: center;
+    
+}
